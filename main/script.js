@@ -80,6 +80,22 @@ const collaboratorsInfo = [
       "https://media.licdn.com/dms/image/v2/D4D03AQF6TwWOIWANJw/profile-displayphoto-shrink_800_800/B4DZV4RmJjHYAc-/0/1741479634363?e=1750291200&v=beta&t=JvUdukmS6rV7n9zkzxo8leEa7y48N60Hpu9bi9FfyA0",
     devSpecialization: "full stack",
   },
+  {
+    name: "Mariana Santos",
+    isMale: false,
+    hasBackButton: true,
+    path: "../MarianaSantos-000/mariana.html",
+    picture: "../MarianaSantos-000/imagens/fotoperfil.jpg",
+    devSpecialization: "full stack",
+  },
+  {
+    name: "Igor Lira",
+    isMale: true,
+    hasBackButton: true,
+    path: "../igor_lira/igor.html",
+    picture: "../igor_lira/assets/foto-perfil.jpeg",
+    devSpecialization: "full stack",
+  },
 ];
 
 const makeAListOfColaborators = ({
